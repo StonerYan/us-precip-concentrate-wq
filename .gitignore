@@ -1,0 +1,23 @@
+# Not part of the public code release
+paper/
+si/
+notes/
+/figures/
+*.docx
+.cursor/
+
+# Local caches and site-year panels (rebuild from sources)
+data/*.parquet
+data/nldi_cache/
+data/*.json
+
+# Manuscript helpers
+code/09_wordcount.py
+code/10_build_docx.py
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
