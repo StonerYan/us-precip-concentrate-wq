@@ -38,6 +38,3 @@ python 16_explain_why.py
 
 Gauges are assigned to NOAA NCEI climate regions (Karl and Koss 1984), then aggregated to Northeast, South, Interior, and West. The split is by state, not a latitude–longitude box.
 
-## Citation
-
-Use this repository only as code and tables. Do not treat the CSVs as a journal data product.
