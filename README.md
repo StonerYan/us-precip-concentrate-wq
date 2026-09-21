@@ -20,14 +20,6 @@ python -m pip install -r requirements.txt
 
 Optional for maps: `cartopy`, `shapely`.
 
-Point raw archives with an environment variable if you rebuild panels from source:
-
-```bash
-set PRECIP_WQ_RAW=D:\path\to\raw
-```
-
-Default local raw root (if unset): `O:\PrecipConcentrate_WQ`.
-
 ## Reproduce the tables
 
 From `code/`:
