@@ -2,7 +2,7 @@
 
 Code and selected regression tables for a paired chemistry–discharge analysis of the continental United States.
 
-Holding annual precipitation fixed, the daily Gini index of precipitation (GP) is entered as a year-scale timing term. The estimator is site and year two-way fixed effects with standard errors clustered by site. Approximate load is median concentration times runoff (\(C \times R\)), not a flux reconstruction.
+Holding annual precipitation fixed, the daily Gini index of precipitation (GP) is entered as a year-scale timing term. The estimator is site and year two-way fixed effects with standard errors clustered by site. Approximate load is median concentration times runoff (C × R), not a flux reconstruction.
 
 ## What is in this repository
 
